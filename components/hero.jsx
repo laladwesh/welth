@@ -44,7 +44,7 @@ const HeroSection = () => {
           </Link>
           <Link href="https://instagram.com/chholekulche_">
             <Button size="lg" variant="outline" className="px-8">
-              Watch Demo
+              Contact Me
             </Button>
           </Link>
         </div>
